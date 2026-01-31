@@ -2,7 +2,7 @@
   "name": "website",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://just-molly.github.io/",
+  "homepage": "https://github.com/just-molly/just-molly.github.io",
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
     "@testing-library/jest-dom": "^5.16.2",
