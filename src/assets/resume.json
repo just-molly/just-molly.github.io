@@ -1,0 +1,90 @@
+{
+    "experience": [
+        {
+            "years": "2023.7 - Present",
+            "title": "Software Engineer",
+            "company": "Bank of America",
+            "logo": "/icons/boa-logo.svg",
+            "technologies": [
+                "Java",
+                "Spring Framework",
+                "Maven",
+                "REST API",
+                "Angular",
+                "Python"
+            ],
+            "descriptions": [
+                "Built APIs to update UI variables via DataPulse, simplifying the process compared to using browser Inspect.",
+                "Implemented the new 'Marketing Package' section for the Merchant Business Software Suite to process product details from backend APIs, display them in the UI, and submit updates back to the backend for a new business onboarding at the bank.",
+                "Developed a Python script to automate post-production deployment validation for over 270 components across 24 servers, significantly reducing manual efforts and improve the accuracy.",
+                "Migrated Synergy-Common components from IBM WebSphere to Red Hat JBoss and rewrote deprecated code post-migration.",
+                "Upgraded more than five components in a large-scale software application, transitioning from Angular 10 to Angular 16, while utilizing SonarQube and Checkmarx to ensure code quality and security compliance.",
+                "Collaborated with QA to resolve hundreds of UI/UX defects, ensuring the software met compliance standards.",
+                "Utilized Jenkins, Ansible and JFrog to support daily deployments, maintain a stable CI/CD pipeline, and resolve various build failures in Jenkins."
+            ]
+        },
+        {
+            "years": "2020.11 - 2023.5",
+            "title": "Web Developer",
+            "company": "NC State University Libraries",
+            "logo": "/icons/ncsu-logo.svg",
+            "technologies": [
+                "PHP",
+                "Node.js",
+                "MySQL",
+                "Drupal"
+            ],
+            "descriptions": [
+                "Developed an internal web page for searching staff with filter options, enabling staff to connect with their colleagues within the library's Ask Us section.",
+                "Divided and migrated PHP content in Drupal into controllers, modules to enhance maintainability and security.",
+                "Worked on a Schema Markup project, enhancing search engine visibility for users.",
+                "Reported and resolved accessibility issues by updating backend code using Git, addressing 10,000+ errors, and ensuring an inclusive user experience for all visitors."
+            ]
+        },
+        {
+            "years": "2022.6 - 2022.8",
+            "title": "Cybersecurity Technology Consulting Intern",
+            "company": "PricewaterhouseCoopers (PwC)",
+            "logo": "/icons/pwc-log.svg",
+            "technologies": [
+                "Java",
+                "Identity and Access Management (IAM)"
+            ],
+            "descriptions": [
+                "Worked on a self-service employee onboarding project, optimizing the onboarding process.",
+                "Created a tracker file to monitor SailPoint and Tivoli KB, while updating information across platforms.",
+                "Conducted code reviews to ensure the protection of client information.",
+                "Collaborated with colleagues to create flowcharts for the onboarding process and Jira ticket intake."
+            ]
+        },
+        {
+            "years": "2021.8 - 2021.12",
+            "title": "Application Engineer Co-op",
+            "company": "Siemens",
+            "logo": "/icons/siemens-logo.svg",
+            "technologies": [
+                "Java",
+                "Visio"
+            ],
+            "descriptions": [
+                "Developed a 3AH4 Config Tool (3AH4 Vacuum Circuit-Breaker) to analyze 16-digit orders number and order code, converting them into specific descriptions, thereby reducing the time spent on deciphering their meaning.",
+                "Updated algorithms, calculation formulas in different proposal templates, enhancing their accuracy.",
+                "Utilized SieOps to create reports and dashboards, enabling in-depth analysis and data visualization."
+            ]
+        },
+        {
+            "years": "2021.1 - 2021.4",
+            "title": "Undergraduate Research Assistant",
+            "company": "NC State University, CS Department",
+            "logo": "/icons/ncsu-logo.svg",
+            "technologies": [
+                "Python",
+                "Data Mining"
+            ],
+            "descriptions": [
+                "Explored students' help-seeking and collaboration behaviors before and during COVID-19, providing valuable insights into their changing needs during the pandemic.",
+                "Utilized data mining techniques to integrate and analyze a substantial dataset of over 1,500 tickets from the online office hours tool (My Digital Hand)."
+            ]
+        }
+    ]
+}
