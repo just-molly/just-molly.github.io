@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.543ff3e0.css",
+    "main.css": "/static/css/main.37906b10.css",
     "main.js": "/static/js/main.f935d322.js",
     "static/js/453.484b8427.chunk.js": "/static/js/453.484b8427.chunk.js",
     "static/media/profile.svg": "/static/media/profile.c3304aae62ab77eeafeccfdc82d9918f.svg",
@@ -19,6 +19,7 @@
     "static/media/SQLAlchemy.svg": "/static/media/SQLAlchemy.9ed39141e0f2542e3bfea4c0410c9d2e.svg",
     "static/media/Python.svg": "/static/media/Python.9daed22c470296a63e19d0d509a1828b.svg",
     "static/media/React.svg": "/static/media/React.fa17b44468fe3c157fc20898567de2b4.svg",
+    "static/media/pacman.svg": "/static/media/pacman.b92653a55cfb1ef51d9c.svg",
     "static/media/Java.svg": "/static/media/Java.980d8e77e92511acfefbf2dfdf4336e1.svg",
     "static/media/Node.svg": "/static/media/Node.4ccf66deab4cce38fa6a744e962daa9f.svg",
     "static/media/Javascript.svg": "/static/media/Javascript.dcff0bf09e6c5ffc3eaea9cc7ec4c8f5.svg",
@@ -27,12 +28,12 @@
     "static/media/Typescript.svg": "/static/media/Typescript.774303fe4118066257168b3609fd95a3.svg",
     "static/media/Git.svg": "/static/media/Git.9fbdd94cab5e68fd45b434fd29b1bb5e.svg",
     "index.html": "/index.html",
-    "main.543ff3e0.css.map": "/static/css/main.543ff3e0.css.map",
+    "main.37906b10.css.map": "/static/css/main.37906b10.css.map",
     "main.f935d322.js.map": "/static/js/main.f935d322.js.map",
     "453.484b8427.chunk.js.map": "/static/js/453.484b8427.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.543ff3e0.css",
+    "static/css/main.37906b10.css",
     "static/js/main.f935d322.js"
   ]
 }
