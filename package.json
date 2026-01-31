@@ -1,7 +1,7 @@
 {
   "name": "website",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://just-molly.github.io/",
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
